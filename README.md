@@ -4,6 +4,7 @@
 
 
 <div align="center">
+  <p>
   <a href="https://github.com/ktkrau">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ktkrau&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktkrau&layout=compact&langs_count=7&theme=dracula"/>
@@ -23,7 +24,7 @@
   <img align="center" alt="kt-ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="kt-blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
   <img align="center" alt="kt-blender" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- 
+ </p>
  ##
  
  
